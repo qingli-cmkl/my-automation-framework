@@ -1,0 +1,5 @@
+2026-09-20 17:02:54,535 - ecommerce_auto - INFO - 打开页面地址:https://wen-10-discount.oemsaas.cn/account/login
+2026-09-20 17:02:54,707 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='email']")，输入内容为:yql2722614180@163.com
+2026-09-20 17:02:54,824 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='password']")，输入内容为:admin_test01
+2026-09-20 17:02:54,898 - ecommerce_auto - INFO - 点击元素:('id', 'confirm')
+2026-09-20 17:02:57,917 - ecommerce_auto - INFO - 获取文本邮箱或密码不正确

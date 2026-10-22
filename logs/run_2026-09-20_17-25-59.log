@@ -1,0 +1,5 @@
+2026-09-20 17:26:01,724 - ecommerce_auto - INFO - 打开页面地址:https://wen-10-discount.oemsaas.cn/account/login
+2026-09-20 17:26:01,856 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='email']")，输入内容为:yql2722614180@163.com
+2026-09-20 17:26:01,945 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='password']")，输入内容为:ad
+2026-09-20 17:26:02,028 - ecommerce_auto - INFO - 点击元素:('id', 'confirm')
+2026-09-20 17:26:05,044 - ecommerce_auto - INFO - 获取文本:密码的长度应在6-15之间

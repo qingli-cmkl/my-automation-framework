@@ -1,0 +1,18 @@
+# 浏览器配置
+browser:
+  headless: false  # true=后台无头运行，false=弹出浏览器调试
+  implicitly_wait: 10
+
+# 环境域名
+env:
+  test: "https://wen-10-discount.oemsaas.cn"  #
+  login: "/account/login"
+
+
+# 测试账号数据（也可分离到data/user_data.yaml）
+user:
+  username: "yql2722614180@163.com"
+  password: "2020520yqL"
+
+timeout:
+  wait: 15

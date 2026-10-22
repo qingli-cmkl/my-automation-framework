@@ -1,0 +1,9 @@
+2026-09-28 15:10:58,496 - ecommerce_auto - INFO - 打开页面地址:https://wen-10-discount.oemsaas.cn/account/login
+2026-09-28 15:10:58,674 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='email']")，输入内容为:yql2722614180@163.com
+2026-09-28 15:10:58,775 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='password']")，输入内容为:2020520yqL
+2026-09-28 15:10:58,901 - ecommerce_auto - INFO - 点击元素:('id', 'confirm')
+2026-09-28 15:11:06,279 - ecommerce_auto - INFO - 打开页面地址:https://wen-10-discount.oemsaas.cn/account/login
+2026-09-28 15:11:07,210 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='email']")，输入内容为:yql2722614180@163.com
+2026-09-28 15:11:07,300 - ecommerce_auto - INFO - 输入文本:('xpath', "//input[@name='password']")，输入内容为:wrong123
+2026-09-28 15:11:07,419 - ecommerce_auto - INFO - 点击元素:('id', 'confirm')
+2026-09-28 15:11:07,949 - ecommerce_auto - INFO - 获取文本:邮箱或密码不正确
