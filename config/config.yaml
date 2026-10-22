@@ -7,6 +7,7 @@ browser:
 env:
   test: "https://wen-10-discount.oemsaas.cn"  #
   login: "/account/login"
+  home: "/home"
 
 
 # 测试账号数据（也可分离到data/user_data.yaml）
