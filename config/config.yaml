@@ -5,7 +5,8 @@ browser:
 
 # 环境域名
 env:
-  test: "https://wen-10-discount.oemsaas.cn"  #
+  test: "https://wen-10-discount.oemsaas.cn"  #前台
+  test2: "https://yangqingli-test.oemsaas.cn/admin/login"  #后台
   login: "/account/login"
   home: "/home"
 
